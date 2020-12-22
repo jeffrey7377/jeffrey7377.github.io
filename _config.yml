@@ -23,7 +23,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/linkedin.jpg"
+avatar: "/assets/img/linkedin.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -39,7 +39,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "j1feng@ucsd.edu"
-  facebook: Jeffrey Feng
+# facebook: Jeffrey
   github: jeffrey7377
 #  twitter: daattali
 #  patreon: DeanAttali
@@ -70,7 +70,7 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: false
-  facebook: true
+  facebook: false
   linkedin: true
   vk: false
   email: true
@@ -95,7 +95,7 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#b9e6f7"
+navbar-col: "#d5e1eb"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
@@ -186,7 +186,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "US/Pacific"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
