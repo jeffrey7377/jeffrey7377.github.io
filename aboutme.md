@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Jiahe Feng, and my preferred name is Jeffrey. I am a third-year student at the University of California San Diego, majoring in data science and cognitive science and minoring in Japanese studies with a 3.9 GPA. I have worked as a research assistant and an undergraduate tutor at UCSD. I am experienced in data engineering, machine learning, and communicating data analysis, and I am motivated to apply these skills to solve problems in various domains and make positive impacts in the world. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### My background
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I was born in Jiangsu, China. In 2014, I came to the United States to attend the Academy of the New Church, a private high school in suburban Philadelphia. In fall 2018, I came to  UCSD with a major in Cognitive Science specialized in machine learning and neural computation, and soon I picked up the data science major as well. I am expecting to graduate in March 2022. 
