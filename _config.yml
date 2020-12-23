@@ -16,8 +16,9 @@ author: Jiahe (Jeffrey) Feng
 navbar-links:
   About Me: "aboutme"
   Courses: "courses"
+  Certificates: "certificate"
   Resources:
-    - UCSD website: "https://ucsd.edu/"
+    - UCSD: "https://ucsd.edu/"
     - Data Science @UCSD: "https://datascience.ucsd.edu/"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
