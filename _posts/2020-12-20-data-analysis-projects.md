@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data Analysis Projects
-subtitle: Practice of data science
+subtitle: Practice of data science 2019 - 2020
 gh-repo: jeffrey7377/practice-in-data-analysis-projects
 gh-badge: [star, fork, follow]
 cover-img: /assets/img/ucsd.jpg
@@ -11,7 +11,7 @@ tags: [data, project]
 
 ---
 
-# Data analysis projects
+# Practice of Data analysis: projects @UCSD
 
 A few of the data analysis projects for practice that I have done at UCSD; There are other data science projects that I made that are not included in the github repository;
 
