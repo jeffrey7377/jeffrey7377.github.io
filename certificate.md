@@ -6,7 +6,7 @@ title: Certificates
 
 ## Certificates
 
-#### Python Data Products for Predictive Analytics Specialization
+### Python Data Products for Predictive Analytics Specialization
 
 Name: Python Data Products for Predictive Analytics Specialization
 
