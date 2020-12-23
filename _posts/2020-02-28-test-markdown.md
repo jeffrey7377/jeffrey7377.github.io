@@ -24,3 +24,7 @@ The visualization can be found here: [Link](https://mdavidson.org/geodata-viz/20
 ### Motive of this sample animation
 
 Here are some interesting reads provided by Prof. Davidson:
+
+Industry-Led Economic Recovery Behind Beijing's Smog Surge, Report Shows: [Link](https://www.caixinglobal.com/2020-12-03/industry-led-economic-recovery-behind-beijings-smog-surge-report-shows-101635388.html)
+
+Air pollution increases around Beijing as steel mills fail to cut capacity. [Link](https://energyandcleanair.org/wp/wp-content/uploads/2020/12/CREA_-Air-pollution-increases-around-Beijing-as-steel-mills-fail-to-cut-capacity.pdf)
