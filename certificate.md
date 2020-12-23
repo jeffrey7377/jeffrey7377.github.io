@@ -1,51 +1,55 @@
 ---
 layout: page
-title: Courses Taken
+title: Certificates
 
 ---
 
-### Some of the courses I took at UCSD:
+## Certificates
 
-COGS 107A: Neuroanatomy and Physiology
+#### Python Data Products for Predictive Analytics Specialization
 
-COGS 107B: Systems Neuroscience
+Name: Python Data Products for Predictive Analytics Specialization
 
-COGS 108: Data Science in Practice
+Issuing Organization: Coursera
 
-COGS 109: Modeling and Data Analysis
+Issue Date: October 2020
 
-COGS 118A: Supervised Machine Learning Algorithms
+Credential ID: MNWTKUBHXF94
 
-COGS 118C: Neural Signal Processing
+Credential URL: [https://www.coursera.org/account/accomplishments/specialization/certificate/MNWTKUBHXF94](https://www.coursera.org/account/accomplishments/specialization/certificate/MNWTKUBHXF94)
 
-COGS 189: Brain Computer Interfaces
+Courses:
 
-CSE 150A: Artificial Intelligence: Probabilistic Reasoning and Decision-Making
+- Basic Data Processing and Visualization
+- Design Thinking and Predictive Analytics for Data Products
+- Meaningful Predictive Modeling
+- Deploying Machine Learning Models
 
-CSE 151A: Introduction to Machine Learning
+Specialization description:
 
-CSE 158: Recommender Systems and Web Mining
+- In this Specialization, learners developed the skills needed to design and deploy accurate predictive systems using real-world datasets. Through creating statistical models and data-driven workflows, learners also discovered how to make meaningful predictions that can be used for business and research purposes. Additionally, learners used design thinking methodology and innovative data science techniques to extract insights from a wide range of data sources.
 
-DSC 30: Data Structures and Algorithms for Data Science
+### Big Data
 
-DSC 40A/B: Theoretical Foundations of Data Science I/II
+Name: Big Data Specialization
 
-DSC 80: The Practice and Application of Data Science
+Issuing Organization: Coursera
 
-DSC 95: Tutor Apprenticeship in Data Science
+Issue Date: September 2020
 
-DSC 100: Introduction to Data Management
+Credential ID: HUZRV736A7LG
 
-DSC 102: Systems for Scalable Analytics
+Credential URL:[https://www.coursera.org/account/accomplishments/specialization/certificate/HUZRV736A7LG](https://www.coursera.org/account/accomplishments/specialization/certificate/HUZRV736A7LG)
 
-DSC 106: Introduction to Data Visualization
+Courses:
 
-JAPN 10A/B/C: First Year Japanese I/II/III
+- Introduction to Big Data
+- Big Data Integration and Processing
+- Big Data Modeling and Management Systems
+- Machine Learning With Big Data
+- Graph Analytics for Big Data
+- Big Data - Capstone Project
 
-MATH 183: Statistical Methods
+Specialization description:
 
-MATH 189: Exploratory Data Analysis and Inference
-
-PHYS 2A: Physics - Mechanics
-
-PHYS 2B: Physics - Electricity and Magnetism
+- You will gain an understanding of what insights big data can provide through hands-on experience with the tools and systems used by big data scientists and engineers. By following along with provided code, you will experience how one can perform predictive modeling and leverage graph analytics to model problems. This specialization will prepare you to ask the right questions about data, communicate effectively with data scientists, and do basic exploration of large, complex datasets. In the final Capstone Project, developed in partnership with data software company Splunk, you'll apply the skills you learned to do basic analyses of big data.
