@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Supervised ML Algorithm Comparison
-subtitle: A replica of a Cornell University study that compared the performance of different supervised machine learning algorithms.
 tags: [ML]
 comments: true
 
@@ -11,7 +10,7 @@ We replicated a Cornell University study that compared the performance of differ
 
 # Practice of Comparisons of Supervised Learning Algorithm
 
-##### Replica of the 2006 Paper by Caruana and Niculescu-Mizil at Cornell University<br/>
+#### Replica of the 2006 Paper by Caruana and Niculescu-Mizil at Cornell University<br/>
 
 The University of California San Diego, La Jolla, CA, 92093 USA
 
