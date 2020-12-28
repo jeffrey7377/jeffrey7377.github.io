@@ -2,13 +2,12 @@
 layout: post
 title: Northern China 2020 PM2.5 Pollution
 subtitle: An animated visualization made with Geodata
-tags: [China, Pollution]
+tags: [China, Pollution, Visualization]
 comments: true
 
 ---
 
 Plotting PM2.5 on a region over time. This is one of the methods I wrote for the Geodata package that Professor Michael R. Davidson is making at the University of California, San Deigo. Data came from NASA.
-
 
 ## Geodata Visualization
 
@@ -19,7 +18,6 @@ One of the visualization task I had, was that given a specific geographical regi
 PM2.5 pollution data is taken from [MERRA-2 hourly surface flux diagnostics](https://disc.gsfc.nasa.gov/datasets/M2T1NXFLX_5.12.4/summary).
 
 The visualization can be found here: [Link](https://mdavidson.org/geodata-viz/2020-12-07-northern-china-2020-pm25-pollution/#pm25-fine-particulate-matter-pollution-over-northern-china-in-2020)
-
 
 ### Motive of this sample animation
 

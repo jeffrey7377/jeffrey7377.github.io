@@ -18,7 +18,6 @@ navbar-links:
   Courses: "courses"
   Certificates: "certificate"
   Resources:
-    - UCSD: "https://ucsd.edu/"
     - Data Science @UCSD: "https://datascience.ucsd.edu/"
     - Cognitive Science @UCSD: "https://cogsci.ucsd.edu/"
     - Beautiful Jekyll: "https://beautifuljekyll.com"

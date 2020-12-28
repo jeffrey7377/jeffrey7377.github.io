@@ -30,6 +30,7 @@ I was born in Jiangsu, China. In 2014, I came to the United States to attend the
 - Topics include Python programming, data cleaning and analysis, statistical hypothesis testing with datascience package.
 - Tutored over 400 students. The tasks include grading student assignments, holding office hours, and leading discussions.
 
+
 ### Projects
 
 Details and links to my projects can be found at my LinkedIn page:
