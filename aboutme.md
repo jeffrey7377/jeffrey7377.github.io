@@ -35,4 +35,4 @@ I was born in Jiangsu, China. In 2014, I came to the United States to attend the
 
 Details and links to my projects can be found at my LinkedIn page:
 
-[www.linkedin.com/in/jeffrey-jiahe-feng](www.linkedin.com/in/jeffrey-jiahe-feng)
+[www.linkedin.com/in/jeffrey-jiahe-feng](https://www.linkedin.com/in/jeffrey-jiahe-feng/)
