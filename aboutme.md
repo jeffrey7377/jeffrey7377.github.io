@@ -14,21 +14,29 @@ I was born in Jiangsu, China. In 2014, I came to the United States to attend the
 
 ### Experience
 
+**Data Science & Bioinformatics Intern at Scripps Research**                               	                             
+
+*January 2021 - Current*
+
+- Supervised by Dr. Eric P. Zorrilla, identifying genomic risk factors for human alcohol use phenotypes.
+- Retrieving genetic data and selecting relevant clinical risk factors from UKBioBank through Scripps HPC server.
+- Performing GWAS and SNP association testing to identify genetic variants using REGENIE and SAIGE packages.
+
 **Undergraduate Research Assistant at UCSD Jacobs School of Engineering**
 
 *Oct 2020 - Present*
 
-- Working for the Geodata group with Professor Micheal R. Davidson.
-- Building python package Geodata with a professional coder to streamline the manipulation of renewable energy resource profiles and land use datasets with high geographical resolution.
-- Creating Plotly interactive charts and Matplotlib animations for geospatial masks and generating renewable energy profiles based on land characteristics using Cartopy shapereader, Xarray, and the Geopandas package.
+-	Led by Dr. Michael R. Davidson, building open-source Python package Geodata to automate API data retrieval and streamline manipulations of renewable energy resource profiles and land use datasets with high geographical resolution. 
+-	Using Geodata, Cartopy shapereader and Xarray datasets, examining the rebound of PM2.5 in China after the Covid-19 lockdown, and calculating the potential solar and wind capacity for each province of China after masking out unavailable lands.
 
 **Teaching Assistant at Halıcıoğlu Data Science Institute, UCSD**
 
 *Sep 2019 - Jun 2020*
 
-- Courses: DSC10 Principles of Data Science (Fall 19, Spring 20).
-- Topics include Python programming, data cleaning and analysis, statistical hypothesis testing with datascience package.
-- Tutored over 400 students. The tasks include grading student assignments, holding office hours, and leading discussions.
+-	DSC30 Data Structures and Algorithms for Data Science (Spring 21): Java programming, algorithms and complexity, data structures (stacks, queues/priority queues, heaps, linked lists, binary trees, BST, and hash tables) and applications (Huffman coding); 
+-	DSC10 Principles of Data Science (Fall 19, Spring 20) and COGS 108 Data Science in Practice (Winter 21): Python programming, data analysis and visualization, web scraping, text analysis, and machine learning.
+-	Tutored over 800 students, created and graded student assignments, led discussions, and held office hours.
+
 
 
 ### Projects
