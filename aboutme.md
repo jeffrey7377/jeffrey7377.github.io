@@ -28,6 +28,7 @@ I was born in Jiangsu, China. In 2014, I came to the United States to attend the
 
 -	Led by Dr. Michael R. Davidson, building open-source Python package Geodata to automate API data retrieval and streamline manipulations of renewable energy resource profiles and land use datasets with high geographical resolution. 
 -	Using Geodata, Cartopy shapereader and Xarray datasets, examining the rebound of PM2.5 in China after the Covid-19 lockdown, and calculating the potential solar and wind capacity for each province of China after masking out unavailable lands.
+-	https://mdavidson.org/about/;
 
 **Teaching Assistant at Halıcıoğlu Data Science Institute, UCSD**
 
