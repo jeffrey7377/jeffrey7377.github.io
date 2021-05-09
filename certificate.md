@@ -28,7 +28,7 @@ Issuing Organization: Coursera
 
 Issue Date: September 2020
 
-Credential URL:[https://www.coursera.org/account/accomplishments/specialization/certificate/HUZRV736A7LG](https://www.coursera.org/account/accomplishments/specialization/certificate/HUZRV736A7LG)
+Credential URL: [https://www.coursera.org/account/accomplishments/specialization/certificate/HUZRV736A7LG](https://www.coursera.org/account/accomplishments/specialization/certificate/HUZRV736A7LG)
 
 Courses:
 
@@ -47,5 +47,5 @@ Issued date: Jan 2021
 
 Expire data: Jan 2024
 
-Credential URL:[https://www.citiprogram.org/verify/?w40d40afc-316d-48f4-aef0-0523711c58ef-40627381](https://www.citiprogram.org/verify/?w40d40afc-316d-48f4-aef0-0523711c58ef-40627381)
+Credential URL: [https://www.citiprogram.org/verify/?w40d40afc-316d-48f4-aef0-0523711c58ef-40627381](https://www.citiprogram.org/verify/?w40d40afc-316d-48f4-aef0-0523711c58ef-40627381)
 
